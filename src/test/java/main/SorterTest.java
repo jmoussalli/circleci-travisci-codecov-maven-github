@@ -28,6 +28,6 @@ class SorterTest {
         List<Double> sortedList = sorter.sort(list);
 
         assertEquals(Arrays.asList(10.5, 3.5, 1.5), list); // wasn't modified
-        assertEquals(Arrays.asList(1.5, 3.5, 10.5), sortedList); // sorted
+        assertEquals(Arrays.asList(1, 1.5, 3.5, 10.5), sortedList); // sorted
     }
 }
