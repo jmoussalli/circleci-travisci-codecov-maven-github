@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jmoussalli/circleci-travisci-codecov-maven-github.svg?branch=master)](https://travis-ci.org/jmoussalli/circleci-travisci-codecov-maven-github)
+[![Build Status](https://travis-ci.com/jmoussalli/circleci-travisci-codecov-maven-github.svg?branch=master)](https://travis-ci.com/jmoussalli/circleci-travisci-codecov-maven-github)
 
 [![CI](https://circleci.com/gh/jmoussalli/circleci-travisci-codecov-maven-github.svg?style=svg)](https://circleci.com/gh/jmoussalli/circleci-travisci-codecov-maven-github)
 
